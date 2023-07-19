@@ -1,3 +1,7 @@
+> 欢迎“一键三连[watch,fork,star]”
+### 技术沟通群
+<img src="https://raw.githubusercontent.com/wang-xiaowu/picture_repository/master/behappy_group.jpg" width="300px">
+
 # behappy-gulimall-nginx-windows
 Nginx（静态资源代理以及后端反代）- windows版本
 
